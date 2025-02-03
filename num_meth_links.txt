@@ -1,0 +1,11 @@
+Python Programming and Numerical Methods - A Guide for Engineers and Scientists
+https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/chapter21.04-Simpsons-Rule.html
+
+Numerical Methods
+https://github.com/djeada/Numerical-Methods?tab=readme-ov-file
+
+A Complete Python Tutorial to Learn Data Science from Scratch
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+
+MIT OpenCursware Python course
+https://www.youtube.com/watch?v=xAcTmDO6NTI&list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB
